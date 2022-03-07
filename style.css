@@ -20,20 +20,18 @@ p
 section
 {
     height: 500px;
-    width: 1170px;
-    margin: auto;
 }
 .highlight
 {
     color: orange;
 }
-.maincontent
+/*.maincontent
 {
     width: 1170px;
     margin-bottom: 20px;
     height: 500px;
  
-}
+}*/
 .top_banner
 {
     background: url("img/top-banner.png");
