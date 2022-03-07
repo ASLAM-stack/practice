@@ -21,6 +21,7 @@ p
 section
 {
     height: 500px;
+    display:block;
 }
 .highlight
 {
